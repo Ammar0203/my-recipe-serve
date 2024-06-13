@@ -1,6 +1,6 @@
 /node_modules
 
-.env
+# .env
 
 /public/images/*.png
 /public/images/*.jpg
